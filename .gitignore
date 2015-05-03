@@ -177,16 +177,10 @@ UpgradeLog*.htm
 # Microsoft Fakes
 FakesAssemblies/
 
-samples/.DS_Store
-
-samples/Xamarin.Forms.Labs.Sample.Droid/Resources/Resource.designer.cs
-src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.Droid/Resources/Resource.designer.cs
-
-src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.userprefs
+#Android resources as generated files
+Resource.Designer.cs
 
 *.userprefs
 *.jf
 
 ReleaseBuild/*
-
-src/Forms/XLabs.Forms.Droid/Resources/Resource.Designer.cs
