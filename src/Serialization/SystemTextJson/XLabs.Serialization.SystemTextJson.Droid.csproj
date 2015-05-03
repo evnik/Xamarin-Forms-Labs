@@ -42,6 +42,9 @@
     <Reference Include="mscorlib" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.IO" />
+    <Reference Include="System.Runtime" />
+    <Reference Include="System.Text.Encoding" />
     <Reference Include="System.Text.Json.Droid, Version=2.0.0.6, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\System.Text.Json.Mobile.2.0.0.6\lib\MonoAndroid\System.Text.Json.Droid.dll</HintPath>
       <Private>True</Private>
